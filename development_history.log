@@ -10,3 +10,4 @@
 [2026-01-28T11:30:00] Build document ingestion and text chunking pipeline
 [2026-01-30T16:20:00] Integrate API calls for RAG document processing
 [2026-01-31T15:40:00] Setup LLM provider integration and system prompts
+[2026-02-02T09:15:00] Add loading states, skeletons, and error handling
