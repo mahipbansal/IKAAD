@@ -1,0 +1,39 @@
+# =========================
+# Web framework
+# =========================
+fastapi
+uvicorn
+
+# =========================
+# LangChain (new split)
+# =========================
+langchain
+langchain-core
+langchain-community
+langchain-groq
+
+# =========================
+# Document loading
+# =========================
+pypdf
+python-docx
+python-pptx
+
+# =========================
+# Embeddings
+# =========================
+sentence-transformers
+torch
+transformers
+
+# =========================
+# Vector store
+# =========================
+faiss-cpu
+
+# =========================
+# Utilities
+# =========================
+python-dotenv
+numpy
+python-multipart
