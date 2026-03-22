@@ -26,7 +26,8 @@ backend/data/
 *.npy
 uploads/
 backend/uploads/
-
+faiss_store/
+backend/faiss_store/
 # =====================
 # OS / Editor junk
 # =====================
